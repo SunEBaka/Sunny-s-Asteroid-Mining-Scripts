@@ -1,7 +1,7 @@
 # Sunny-s-Asteroid-Mining-Scripts
 The 3 Scripts for Automatic Asteroid Mining in The Perfect Tower 2
 
-Should work on most resolutions 
+Should work on most resolutions (Based on 16:9 resolution)
 
 I've Baseline set the time it takes to mine all asteroids to 50 seconds (Change that in the "Dos.Asteroid (Edited)" Script in line Number 1)
 
